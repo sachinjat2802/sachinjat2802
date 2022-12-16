@@ -146,7 +146,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
-[instagram]: https://www.instagram.com/projectaj14
+[instagram]: https://www.instagram.com/__monnu__
 [linkedin]: https://www.linkedin.com/in/ajay-kumar-586b7a22a
 [twitter]: https://twitter.com/AjayK_14
 [Nodejs]: https://nodejs.org/en/
