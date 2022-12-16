@@ -15,7 +15,7 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 - 👨🏾‍💻 I'm currently working as backend devloper at agile Mantra pvt ltd</span>
 - 🌱 I’m currently learning mern</span>
 - ❤️ I love to code.
-- ⚡ “api ,socket ,blockchain ,ams”
+- ⚡ “api ,socket ,blockchain,aws, and try to lead everything till my limites”
 
 
 
