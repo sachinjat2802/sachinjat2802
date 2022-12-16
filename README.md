@@ -7,7 +7,7 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 <!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] -->
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <!-- [<img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />][reddit] -->
 
 <br/>
@@ -146,7 +146,6 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
-[instagram]: https://www.instagram.com/__monnu__
 [linkedin]: https://www.linkedin.com/in/ajay-kumar-586b7a22a
 [twitter]: https://twitter.com/AjayK_14
 [Nodejs]: https://nodejs.org/en/
@@ -175,4 +174,4 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 [youtube]: https://www.youtube.com/channel/UCyV2fy32RyPgOco83tMkR-g
 
 ![](https://hit.yhype.me/github/profile?user_id=35396392)
-
+ -->
