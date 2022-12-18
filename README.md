@@ -51,7 +51,7 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [<img src="https://img.shields.io/badge/ios%20-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white%22"/>][ios]
 
 [<img src="https://img.shields.io/badge/javascript%20-%23000000.svg?&style=for-the-badge&logo=javascript&logoColor=white%22"/>][Javascript]
-[<img src="https://img.shields.io/badge/ecmascript%20-%23000000.svg?&style=for-the-badge&logo=ecmascript&logoColor=white%22"/>][ecmascript]
+[<img src="https://img.shields.io/badge/ecmascript%20-%23000000.svg?&style=for-the-badge&logo=ecma&logoColor=white%22"/>][ecmascript]
 
 
 
