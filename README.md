@@ -9,6 +9,8 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/npm%20-%23000000.svg?&style=for-the-badge&logo=npm&logoColor=white%22"/>][npm]
+[<img src="https://img.shields.io/badge/discord%20-%23000000.svg?&style=for-the-badge&logo=discord&logoColor=white%22"/>][npm]
+
 
 
 <br/>
