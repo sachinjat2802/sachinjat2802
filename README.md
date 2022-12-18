@@ -44,6 +44,8 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [<img src="https://img.shields.io/badge/aws%20-%23000000.svg?&style=for-the-badge&logo=amazon&logoColor=white%22"/>][aws]
 [<img src="https://img.shields.io/badge/socket.io%20-%23000000.svg?&style=for-the-badge&logo=socket.io&logoColor=white%22"/>][socket.io]
 [<img src="https://img.shields.io/badge/dart%20-%23000000.svg?&style=for-the-badge&logo=dart&logoColor=white%22"/>][dart]
+[<img src="https://img.shields.io/badge/flutter%20-%23000000.svg?&style=for-the-badge&logo=flutter&logoColor=white%22"/>][[dart](https://flutter.dev/?gclid=CjwKCAiAkfucBhBBEiwAFjbkr0i_-sgqqqwkVVz5kqCJBUfS6BiF803lbS0wiOa1eGWiocLf6j4DZhoCKC8QAvD_BwE&gclsrc=aw.ds)]
+
 
 
 
