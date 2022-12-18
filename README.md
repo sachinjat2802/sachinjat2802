@@ -9,9 +9,11 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [<img src="https://img.shields.io/badge/linkedin-%23000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/npm%20-%23000000.svg?&style=for-the-badge&logo=npm&logoColor=white%22"/>][npm]
 [<img src="https://img.shields.io/badge/discord%20-%23000000.svg?&style=for-the-badge&logo=discord&logoColor=white%22"/>][discord]
-[<img src="https://img.shields.io/badge/medium%20-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white%22"/>][medium]
+[<img src="https://img.shields.io/badge/medium%20-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white%22"/>][medium1]
 [<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img src="https://img.shields.io/badge/gitlab1-%23000000.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />][gitlab1]
+[<img src="https://img.shields.io/badge/gitlab2-%23000000.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />][gitlab2]
+
 
 
 
@@ -84,7 +86,10 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [MongoDB]:https://www.mongodb.com/home
 [firebase]:https://firebase.google.com/docs/auth/web/google-signin
 [aws]:https://aws.amazon.com/console/
-[medium]:https://medium.com/@sachin.jat
+[medium1]:https://medium.com/@sachin.jat
+
 [socket.io]:https://socket.io/
 [gitlab1]:https://gitlab.com/sachinjat2802
+[gitlab2]:https://gitlab.com/sachin.jat
+
 
