@@ -49,7 +49,7 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [<img src="https://img.shields.io/badge/flutter%20-%23000000.svg?&style=for-the-badge&logo=flutter&logoColor=white%22"/>][flutter]
 [<img src="https://img.shields.io/badge/android%20-%23000000.svg?&style=for-the-badge&logo=android&logoColor=white%22"/>][android]
 [<img src="https://img.shields.io/badge/ios%20-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white%22"/>][ios]
-[<img src="https://img.shields/badge/javascript%20-%23000000.svg?&style=for-the-badge&logo=javascript&logoColor=white%22"/>][Javascript]
+[<img src="https://img.shields.io/badge/javascript%20-%23000000.svg?&style=for-the-badge&logo=javascript&logoColor=white%22"/>][ios]
 
 
 
