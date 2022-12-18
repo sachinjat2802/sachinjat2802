@@ -34,6 +34,8 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [<img src="https://img.shields.io/badge/express%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white%22"/>][express]
 [<img src="https://img.shields.io/badge/mongodb%20-%23000000.svg?&style=for-the-badge&logo=mongodb&logoColor=white%22"/>][MongoDB]
 [<img src="https://img.shields.io/badge/firebase%20-%23000000.svg?&style=for-the-badge&logo=firebase&logoColor=white%22"/>][firebase]
+[<img src="https://img.shields.io/badge/aws%20-%23000000.svg?&style=for-the-badge&logo=aws&logoColor=white%22"/>][aws]
+
 
 
 
@@ -74,4 +76,6 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [express]:https://expressjs.com/
 [MongoDB]:https://www.mongodb.com/home
 [firebase]:https://firebase.google.com/docs/auth/web/google-signin
+[aws]:https://aws.amazon.com/console/
+
 
