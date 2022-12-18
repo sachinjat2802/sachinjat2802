@@ -50,6 +50,9 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [<img src="https://img.shields.io/badge/android%20-%23000000.svg?&style=for-the-badge&logo=android&logoColor=white%22"/>][android]
 [<img src="https://img.shields.io/badge/ios%20-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white%22"/>][ios]
 
+[<img src="https://img.shields/badge/Javascript%20-%23000000.svg?&style=for-the-badge&logo=javascript&logoColor=white%22"/>][Javascript]
+
+
 
 
 
@@ -105,5 +108,8 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [flutter]:https://flutter.dev/?gclid=CjwKCAiAkfucBhBBEiwAFjbkr0i_-sgqqqwkVVz5kqCJBUfS6BiF803lbS0wiOa1eGWiocLf6j4DZhoCKC8QAvD_BwE&gclsrc=aw.ds
 [android]:https://www.android.com/intl/en_in/
 [ios]:https://www.android.com/intl/en_in/
+
+[Javascript]:https://www.javascript.com/
+
 
 
