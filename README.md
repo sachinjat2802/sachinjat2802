@@ -65,7 +65,6 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinjat2802)](https://github.com/sachinjat2802/github-readme-stats)
 
 
 
