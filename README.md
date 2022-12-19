@@ -53,7 +53,6 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [<img src="https://img.shields.io/badge/javascript%20-%23000000.svg?&style=for-the-badge&logo=javascript&logoColor=white%22"/>][Javascript]
 [<img src="https://img.shields.io/badge/ECMAScript%20-%23000000.svg?&style=for-the-badge&logo=ECMAScript&logoColor=white%22"/>][ecmascript]
 [<img src="https://img.shields.io/badge/typescript%20-%23000000.svg?&style=for-the-badge&logo=typescript&logoColor=white%22"/>][typescript]
-[<img src="https://img.shields.io/badge/java%20-%23000000.svg?&style=for-the-badge&logo=java&logoColor=white%22"/>][java]
 [<img src="https://img.shields.io/badge/python%20-%23000000.svg?&style=for-the-badge&logo=python&logoColor=white%22"/>][python]
 [<img src="https://img.shields.io/badge/mulesoft%20-%23000000.svg?&style=for-the-badge&logo=mulesoft&logoColor=white%22"/>][mulesoft]
 
