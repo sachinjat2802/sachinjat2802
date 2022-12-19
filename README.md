@@ -56,7 +56,6 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [<img src="https://img.shields.io/badge/python%20-%23000000.svg?&style=for-the-badge&logo=python&logoColor=white%22"/>][python]
 [<img src="https://img.shields.io/badge/mulesoft%20-%23000000.svg?&style=for-the-badge&logo=mulesoft&logoColor=white%22"/>][mulesoft]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinjat2802&theme=tokyonight)
 
 
   <summary>Recent Github Activity</summary>
@@ -66,6 +65,7 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
  
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinjat2802)](https://github.com/sachinjat2802/github-readme-stats)
 
 
 
