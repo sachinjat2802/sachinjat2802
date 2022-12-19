@@ -57,12 +57,7 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [<img src="https://img.shields.io/badge/mulesoft%20-%23000000.svg?&style=for-the-badge&logo=mulesoft&logoColor=white%22"/>][mulesoft]
 
 
-> *** Stats***
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2020%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264%20Thousand%20lines%20of%20code-blue)
 
 
   <summary>Recent Github Activity</summary>
