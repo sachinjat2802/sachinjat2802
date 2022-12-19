@@ -64,7 +64,6 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 </a>
  
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sachinjat2802)](https://github.com/sachinjat2802/github-readme-stats)
 
 
 
