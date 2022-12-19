@@ -55,8 +55,83 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 [<img src="https://img.shields.io/badge/typescript%20-%23000000.svg?&style=for-the-badge&logo=typescript&logoColor=white%22"/>][typescript]
 [<img src="https://img.shields.io/badge/python%20-%23000000.svg?&style=for-the-badge&logo=python&logoColor=white%22"/>][python]
 [<img src="https://img.shields.io/badge/mulesoft%20-%23000000.svg?&style=for-the-badge&logo=mulesoft&logoColor=white%22"/>][mulesoft]
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2020%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264%20Thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    69 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.21% 
+🌆 Daytime    130 commits    ████████░░░░░░░░░░░░░░░░░   32.42% 
+🌃 Evening    136 commits    ████████░░░░░░░░░░░░░░░░░   33.92% 
+🌙 Night      66 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.46%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.47% 
+Tuesday      99 commits     ██████░░░░░░░░░░░░░░░░░░░   24.69% 
+Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
+Thursday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+Friday       73 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
+Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.98% 
+Sunday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Dart                     27 hrs 32 mins      ████████████████████░░░░░   80.41% 
+Markdown                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.05% 
+YAML                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.93% 
+Shell Script             46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
+Bash                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
+
+🔥 Editors: 
+Android Studio           33 hrs 41 mins      ████████████████████████░   98.39% 
+IntelliJ                 33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
+
+💻 Operating System: 
+Mac                      34 hrs 14 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Dart** 
+
+```text
+Dart                     26 repos            ██████████████████░░░░░░░   74.29% 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
+
+```
+
+
+
+ Last Updated on 18/12/2022 18:39:16 UTC
+<!--END_SECTION:waka-->
+
+<br />
+
+
+ 
+  <summary>Recent Github Activity</summary>
+<a href="https://github.com/sachinjat2802">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaykumargithub2114&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical&hide_title=true" alt="ajaykumargithub2114 github stats" />
+</a>
+ 
 
 
 
