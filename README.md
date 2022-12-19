@@ -129,7 +129,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
  
   <summary>Recent Github Activity</summary>
 <a href="https://github.com/sachinjat2802">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaykumargithub2114&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical&hide_title=true" alt="ajaykumargithub2114 github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinjat2802&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical&hide_title=true" alt="sachinjat2802 github stats" />
 </a>
  
 
