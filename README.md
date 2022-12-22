@@ -63,9 +63,9 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 
  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinjat2802&show_icons=true&locale=en" alt="sachinjat2802" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinjat2802&show_icons=true&locale=en&theme=dark" alt="sachinjat2802" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinjat2802&" alt="sachinjat2802" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinjat2802&theme=dark" alt="sachinjat2802" /></p>
 
 
 
