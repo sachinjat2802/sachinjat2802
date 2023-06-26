@@ -24,12 +24,10 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 <br/>
 
 
-- 👨🏾‍💻 I'm currently working as backend devloper at sunfocus solutions  pvt ltd</span>
-- 🌱 I’m currently learning mern</span>
-- ❤️ I love to code.
+- 👨🏾‍💻 I'm currently working as backend devloper at sunfocus solutions  pvt ltd </span>
+- 🌱 I’m currently learning nest js</span>
+- ❤️ I love to poc.
 - ⚡ “api ,socket ,blockchain,aws, and try to lead everything till my limites”
-
-
 
 <br />
 
