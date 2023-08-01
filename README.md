@@ -33,16 +33,19 @@ My journey as a backend virtuoso is an eternal quest for knowledge and excellenc
 
 
 
-
 <br/>
 
-👨🏾‍💻 Behold, I wield the title of Backend Developer at the prestigious Sunfocus Solutions Pvt Ltd.
-🌱 A seeker of knowledge, I embark on a journey to master the secrets of Nest.js.
-❤️ My heart finds joy in the art of Proof of Concept, where innovation knows no bounds.
-⚡ My domain of expertise includes APIs, Sockets, Blockchain, and the awe-inspiring realms of AWS. I fearlessly lead the charge, pushing boundaries 
-    and venturing beyond my limits.
-   Stay tuned as I continue to shape the future with my skills and passion! 🚀
+
+- 👨🏾‍💻 Behold, I wield the title of Backend Developer at the prestigious Sunfocus Solutions Pvt Ltd. </span>
+- 🌱 A seeker of knowledge, I embark on a journey to master the secrets of Nest.js</span>
+- ❤️ My heart finds joy in the art of Proof of Concept, where innovation knows no bounds.</span>
+- ⚡  My domain of expertise includes APIs, Sockets, Blockchain, and the awe-inspiring realms of AWS. I fearlessly lead the charge, pushing 
+        boundaries and venturing beyond my limits.</span>
+        Stay tuned as I continue to shape the future with my skills and passion! 🚀</span>
+
+
 <br />
+
 
 
 
