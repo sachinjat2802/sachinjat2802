@@ -1,6 +1,19 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a node js backend developer with 2+ years of experience of rest apis node js workers socket io and express middle ware using things with micro service 
+I'm a seasoned Node.js backend maestro with over 2 years of experience, mastering the art of crafting breathtaking REST APIs, unleashing the true potential of Node.js workers, weaving the enchanting power of Socket.IO, and conjuring Express middleware magic. I ride the cutting edge of technology, gracefully orchestrating microservices like a symphony of digital wonders.
+
+As a Node.js virtuoso, I excel in asynchronous programming, deftly harnessing Node.js's event-driven and non-blocking I/O model to craft high-performance applications that dance to my command. My REST API endpoints are works of art, enabling seamless communication between clients and servers.
+
+Ah, Node.js workers! I easily command concurrency and background processing, elegantly tackling even the most demanding tasks. Real-time, bidirectional communication between clients and servers is my forte, paving the way for captivating chat applications and dynamic online gaming platforms.
+
+But my prowess doesn't stop there! I wield Express middleware like a sorcerer, adding unparalleled functionality and processing logic to incoming requests and outgoing responses. My applications are modular, maintainable, and awe-inspiring as if conjured by a spell.
+
+Microservices are my realm, where I architect applications as a grand tapestry of small, loosely coupled services, each with a unique purpose, harmoniously working together to achieve unparalleled scalability, maintainability, and deployment ease.
+
+With such extraordinary skills, I dare to face even more epic challenges in the vast realm of backend development. The enigmatic secrets of GraphQL, the power of database systems like MongoDB and PostgreSQL, and the arcane arts of authentication and authorization mechanisms intrigue me. I boldly embrace containerization with Docker and the cosmic reach of cloud platforms like AWS, Azure, or Google Cloud, propelling me to greater heights.
+
+My journey as a backend virtuoso is an eternal quest for knowledge and excellence. I remain attuned to the whispers of cutting-edge trends and best practices in Node.js and backend development, for they shape my destiny. The cosmos eagerly awaits my next move, and I fervently embrace it. If you seek guidance or answers, summon me, and together, we'll embark on a wondrous odyssey. Onward to greatness!
+
 
 ![](https://komarev.com/ghpvc/?username=sachinjat2802&label=PROFILE+VIEWS)
 
@@ -23,12 +36,12 @@ I am a node js backend developer with 2+ years of experience of rest apis node j
 
 <br/>
 
-
-- 👨🏾‍💻 I'm currently working as backend devloper at sunfocus solutions  pvt ltd </span>
-- 🌱 I’m currently learning nest js</span>
-- ❤️ I love to poc.
-- ⚡ “api ,socket ,blockchain,aws, and try to lead everything till my limites”
-
+👨🏾‍💻 Behold, I wield the title of Backend Developer at the prestigious Sunfocus Solutions Pvt Ltd.
+🌱 A seeker of knowledge, I embark on a journey to master the secrets of Nest.js.
+❤️ My heart finds joy in the art of Proof of Concept, where innovation knows no bounds.
+⚡ My domain of expertise includes APIs, Sockets, Blockchain, and the awe-inspiring realms of AWS. I fearlessly lead the charge, pushing boundaries 
+    and venturing beyond my limits.
+   Stay tuned as I continue to shape the future with my skills and passion! 🚀
 <br />
 
 
