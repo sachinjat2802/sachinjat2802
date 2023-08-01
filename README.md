@@ -1,20 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a seasoned Node.js backend maestro with over 2 years of experience, mastering the art of crafting breathtaking REST APIs, unleashing the true potential of Node.js workers, weaving the enchanting power of Socket.IO, and conjuring Express middleware magic. I ride the cutting edge of technology, gracefully orchestrating microservices like a symphony of digital wonders.
-
-As a Node.js virtuoso, I excel in asynchronous programming, deftly harnessing Node.js's event-driven and non-blocking I/O model to craft high-performance applications that dance to my command. My REST API endpoints are works of art, enabling seamless communication between clients and servers.
-
-Ah, Node.js workers! I easily command concurrency and background processing, elegantly tackling even the most demanding tasks. Real-time, bidirectional communication between clients and servers is my forte, paving the way for captivating chat applications and dynamic online gaming platforms.
-
-But my prowess doesn't stop there! I wield Express middleware like a sorcerer, adding unparalleled functionality and processing logic to incoming requests and outgoing responses. My applications are modular, maintainable, and awe-inspiring as if conjured by a spell.
-
-Microservices are my realm, where I architect applications as a grand tapestry of small, loosely coupled services, each with a unique purpose, harmoniously working together to achieve unparalleled scalability, maintainability, and deployment ease.
-
-With such extraordinary skills, I dare to face even more epic challenges in the vast realm of backend development. The enigmatic secrets of GraphQL, the power of database systems like MongoDB and PostgreSQL, and the arcane arts of authentication and authorization mechanisms intrigue me. I boldly embrace containerization with Docker and the cosmic reach of cloud platforms like AWS, Azure, or Google Cloud, propelling me to greater heights.
-
-My journey as a backend virtuoso is an eternal quest for knowledge and excellence. I remain attuned to the whispers of cutting-edge trends and best practices in Node.js and backend development, for they shape my destiny. The cosmos eagerly awaits my next move, and I fervently embrace it. If you seek guidance or answers, summon me, and together, we'll embark on a wondrous odyssey. Onward to greatness!
-
-
 ![](https://komarev.com/ghpvc/?username=sachinjat2802&label=PROFILE+VIEWS)
 
 
@@ -45,6 +30,23 @@ My journey as a backend virtuoso is an eternal quest for knowledge and excellenc
 
 
 <br />
+
+I'm a seasoned Node.js backend maestro with over 2 years of experience, mastering the art of crafting breathtaking REST APIs, unleashing the true potential of Node.js workers, weaving the enchanting power of Socket.IO, and conjuring Express middleware magic. I ride the cutting edge of technology, gracefully orchestrating microservices like a symphony of digital wonders.
+
+As a Node.js virtuoso, I excel in asynchronous programming, deftly harnessing Node.js's event-driven and non-blocking I/O model to craft high-performance applications that dance to my command. My REST API endpoints are works of art, enabling seamless communication between clients and servers.
+
+Ah, Node.js workers! I easily command concurrency and background processing, elegantly tackling even the most demanding tasks. Real-time, bidirectional communication between clients and servers is my forte, paving the way for captivating chat applications and dynamic online gaming platforms.
+
+But my prowess doesn't stop there! I wield Express middleware like a sorcerer, adding unparalleled functionality and processing logic to incoming requests and outgoing responses. My applications are modular, maintainable, and awe-inspiring as if conjured by a spell.
+
+Microservices are my realm, where I architect applications as a grand tapestry of small, loosely coupled services, each with a unique purpose, harmoniously working together to achieve unparalleled scalability, maintainability, and deployment ease.
+
+With such extraordinary skills, I dare to face even more epic challenges in the vast realm of backend development. The enigmatic secrets of GraphQL, the power of database systems like MongoDB and PostgreSQL, and the arcane arts of authentication and authorization mechanisms intrigue me. I boldly embrace containerization with Docker and the cosmic reach of cloud platforms like AWS, Azure, or Google Cloud, propelling me to greater heights.
+
+My journey as a backend virtuoso is an eternal quest for knowledge and excellence. I remain attuned to the whispers of cutting-edge trends and best practices in Node.js and backend development, for they shape my destiny. The cosmos eagerly awaits my next move, and I fervently embrace it. If you seek guidance or answers, summon me, and together, we'll embark on a wondrous odyssey. Onward to greatness!
+
+
+
 
 
 
