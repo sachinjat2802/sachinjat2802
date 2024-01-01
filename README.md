@@ -54,7 +54,7 @@
 [<img src="https://img.shields.io/badge/python%20-%23000000.svg?&style=for-the-badge&logo=python&logoColor=white%22"/>][python]
 [<img src="https://img.shields.io/badge/mulesoft%20-%23000000.svg?&style=for-the-badge&logo=mulesoft&logoColor=white%22"/>][mulesoft]
 
-I'm a seasoned Node.js backend maestro with over 2 years of experience, mastering the art of crafting breathtaking REST APIs, unleashing the true potential of Node.js workers, weaving the enchanting power of Socket.IO, and conjuring Express middleware magic. I ride the cutting edge of technology, gracefully orchestrating microservices like a symphony of digital wonders.
+I'm a seasoned Node.js backend maestro with over 4 years of experience, mastering the art of crafting breathtaking REST APIs, unleashing the true potential of Node.js workers, weaving the enchanting power of Socket.IO, and conjuring Express middleware magic. I ride the cutting edge of technology, gracefully orchestrating microservices like a symphony of digital wonders.
 
 As a Node.js virtuoso, I excel in asynchronous programming, deftly harnessing Node.js's event-driven and non-blocking I/O model to craft high-performance applications that dance to my command. My REST API endpoints are works of art, enabling seamless communication between clients and servers.
 
