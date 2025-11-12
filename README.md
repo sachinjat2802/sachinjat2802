@@ -33,7 +33,6 @@
 book a slot with me [<img src="https://img.shields.io/badge/calender%20-%23000000.svg?&style=for-the-badge&logo=calender&logoColor=white"/>][calender]
 
 
-
 > ***Languages and Tools:***
 
 [<img src="https://img.shields.io/badge/node.js%20-%23000000.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>][Nodejs]
