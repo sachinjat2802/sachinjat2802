@@ -27,6 +27,7 @@
 - ⚡  My domain of expertise includes APIs, Sockets, Blockchain, and the awe-inspiring realms of AWS. I fearlessly lead the charge, pushing 
         boundaries and venturing beyond my limits.</span>
         Stay tuned as I continue to shape the future with my skills and passion! 🚀</span>
+        book a slot with me [<img src="https://img.shields.io/badge/calender%20-%23000000.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>][calender]
 
 
 <br />
@@ -153,6 +154,7 @@ My journey as a backend virtuoso is an eternal quest for knowledge and excellenc
 [java]:https://www.java.com/en/
 [python]:https://www.python.org/
 [mulesoft]:https://www.mulesoft.com/
+[calender]:https://calendar.app.google/LubeiJVJV9tv5Hf38
 
 
 
