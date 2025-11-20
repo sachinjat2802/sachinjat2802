@@ -1,6 +1,5 @@
-<!-- INTRO SECTION -->
 <h1 align="center">Hi there 👋, I'm Sachin Jat</h1>
-<h3 align="center">Senior Backend Engineer · Node.js · NestJS · Microservices · Cloud · API Architect</h3>
+<h3 align="center">Senior Backend Engineer · Node.js · NestJS · Microservices · Cloud · AI Engineering</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" alt="wave"/>
@@ -12,7 +11,6 @@
 
 ---
 
-<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://www.hackerrank.com/sachinjat2802"><img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
   <a href="https://www.linkedin.com/in/sachin-jat-2802/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -29,19 +27,14 @@
 
 > I build backends and platforms that run reliably, scale predictably, and are easy to operate. I prefer clean architecture, observable systems, and pragmatic automation.
 
-- 🏢 **Current Role:** Senior Software Engineer, Digital Engineering Services (DES2) — **Sutherland Global**  
-- 🧠 **Experience:** 7+ years building backend systems  
+- 🏢 **Current Role:** Senior Software Engineer, Digital Engineering Services (DES2) — **Sutherland Global** - 🧠 **Experience:** 7+ years building backend systems  
 - 📍 **Location:** Alwar, Rajasthan  
-- ⚡ **Focus Areas:** Node.js, NestJS, Microservices, Event-driven architecture, Cloud (AWS/Azure/GCP), Databases, Observability, Secure integrations
+- ⚡ **Focus Areas:** Node.js, NestJS, Microservices, Cloud (AWS/Azure/GCP), Observability, **GenAI & LLM Integrations**
 
 ---
 
 ## 🧩 Work Experience (high-level)
-- **Sutherland Global** — Sr. Software Engineer (DES2) · *Aug 2025 – Present*  
-- **ATMECS Global Inc** — Senior Software Engineer · *May 2024 – Aug 2025*  
-- **Sunfocus Solutions Pvt. Ltd.** — Node.js Backend Developer · *Jan 2022 – Mar 2024*  
-- **VirtouStack Softwares Pvt. Ltd.** — Software Engineer / Trainee · *2019 – 2021*  
-- **Jaljeevika** — Internship · *Oct 2018 – Oct 2019*
+- **Sutherland Global** — Sr. Software Engineer (DES2) · *Aug 2025 – Present* - **ATMECS Global Inc** — Senior Software Engineer · *May 2024 – Aug 2025* - **Sunfocus Solutions Pvt. Ltd.** — Node.js Backend Developer · *Jan 2022 – Mar 2024* - **VirtouStack Softwares Pvt. Ltd.** — Software Engineer / Trainee · *2019 – 2021* - **Jaljeevika** — Internship · *Oct 2018 – Oct 2019*
 
 ---
 
@@ -73,6 +66,24 @@
 </p>
 
 **More tools & patterns:** Microservices, DDD, CQRS, Bounded Contexts, API Gateway, Rate Limiting, Circuit Breakers, Clustering (PM2), Background Workers (Bull/BullMQ), Schedulers (Agenda, cron), Validation (Zod, Joi), Request Logging & Tracing.
+
+</details>
+
+<details>
+<summary><strong>🤖 AI & GenAI Tools</strong> — LLMs · Agents · Code Assistants (click to expand)</summary>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Cline-5C2D91?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Cline"/>
+</p>
+
+**Workflows:** Prompt Engineering, RAG Pipelines, AI-Assisted Coding, Architecture Brainstorming, Automated Documentation, Code Refactoring Agents.
 
 </details>
 
@@ -293,7 +304,6 @@ Want help designing microservices, setting up observability, or integrating paym
 
 ---
 
-<!-- LINK REFERENCES -->
 [calendar]: https://calendar.app.google/LubeiJVJV9tv5Hf38
 [hackerRank]: https://www.hackerrank.com/sachinjat2802
 [linkedin]: https://www.linkedin.com/in/sachin-jat-2802/
