@@ -196,29 +196,64 @@
 </details>
 
 <details>
-<summary><strong>🧰 Monitoring & Observability</strong> — Prometheus · Grafana · Tracing (click to expand)</summary>
+<summary><strong>🧰 Monitoring & Observability</strong> —  Tools · APM · Tracing (click to expand)</summary>
 
 <br/>
 
 <p>
-  <a href="https://prometheus.io/docs/introduction/overview/"><img src="https://img.shields.io/badge/Prometheus-FF6B00?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
+  <a href="https://prometheus.io/docs/introduction/overview/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
   <a href="https://grafana.com/docs/"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/></a>
-  <a href="https://opentelemetry.io/docs/"><img src="https://img.shields.io/badge/OpenTelemetry-0078D4?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/></a>
-  <a href="https://www.jaegertracing.io/docs/"><img src="https://img.shields.io/badge/Jaeger-FF6C37?style=flat-square&logo=jaeger&logoColor=white" alt="Jaeger"/></a>
-  <a href="https://zipkin.io/"><img src="https://img.shields.io/badge/Zipkin-0033CC?style=flat-square&logo=zipkin&logoColor=white" alt="Zipkin"/></a>
+  <a href="https://www.elastic.co/kibana"><img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana"/></a>
+  <a href="https://thanos.io/tip/thanos/getting-started.md/"><img src="https://img.shields.io/badge/Thanos-6F42C1?style=flat-square&logo=thanos&logoColor=white" alt="Thanos"/></a>
+  <a href="https://docs.victoriametrics.com/"><img src="https://img.shields.io/badge/VictoriaMetrics-000000?style=flat-square&logo=victoriametrics&logoColor=white" alt="VictoriaMetrics"/></a>
+  <a href="https://docs.influxdata.com/"><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB"/></a>
+  <a href="https://www.zabbix.com/documentation/current/"><img src="https://img.shields.io/badge/Zabbix-D60000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix"/></a>
+  <a href="https://www.nagios.org/documentation/"><img src="https://img.shields.io/badge/Nagios-000000?style=flat-square&logo=nagios&logoColor=white" alt="Nagios"/></a>
+
+  <br/>
+
   <a href="https://www.elastic.co/elastic-stack"><img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white" alt="ELK"/></a>
-  <a href="https://grafana.com/docs/loki/latest/"><img src="https://img.shields.io/badge/Loki-5F5F5F?style=flat-square&logo=loki&logoColor=white" alt="Loki"/></a>
-  <a href="https://docs.sentry.io/"><img src="https://img.shields.io/badge/Sentry-2E2B2B?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/></a>
+  <a href="https://grafana.com/docs/loki/latest/"><img src="https://img.shields.io/badge/Loki-5F5F5F?style=flat-square&logo=grafana&logoColor=white" alt="Loki"/></a>
+  <a href="https://docs.splunk.com/Documentation/Splunk"><img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/></a>
+  <a href="https://docs.fluentd.org/"><img src="https://img.shields.io/badge/Fluentd-0E83C8?style=flat-square&logo=fluentd&logoColor=white" alt="Fluentd"/></a>
+  <a href="https://docs.fluentbit.io/manual/"><img src="https://img.shields.io/badge/Fluent%20Bit-418B82?style=flat-square&logo=fluentbit&logoColor=white" alt="Fluent Bit"/></a>
+  <a href="https://go2docs.graylog.org/current/home.htm"><img src="https://img.shields.io/badge/Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white" alt="Graylog"/></a>
+  <a href="https://www.elastic.co/logstash"><img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white" alt="Logstash"/></a>
+
+  <br/>
+
   <a href="https://docs.datadoghq.com/"><img src="https://img.shields.io/badge/Datadog-632CE4?style=flat-square&logo=datadog&logoColor=white" alt="Datadog"/></a>
   <a href="https://docs.newrelic.com/"><img src="https://img.shields.io/badge/NewRelic-008CB4?style=flat-square&logo=newrelic&logoColor=white" alt="New Relic"/></a>
+  <a href="https://www.dynatrace.com/support/help/"><img src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white" alt="Dynatrace"/></a>
+  <a href="https://docs.appdynamics.com/"><img src="https://img.shields.io/badge/AppDynamics-4E45DD?style=flat-square&logo=appdynamics&logoColor=white" alt="AppDynamics"/></a>
+  <a href="https://docs.honeycomb.io/"><img src="https://img.shields.io/badge/Honeycomb-FFC414?style=flat-square&logo=honeycomb&logoColor=black" alt="Honeycomb"/></a>
+  <a href="https://docs.sentry.io/"><img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/></a>
+  <a href="https://rollbar.com/docs/"><img src="https://img.shields.io/badge/Rollbar-00C7AA?style=flat-square&logo=rollbar&logoColor=white" alt="Rollbar"/></a>
+
+  <br/>
+
+  <a href="https://opentelemetry.io/docs/"><img src="https://img.shields.io/badge/OpenTelemetry-0078D4?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/></a>
+  <a href="https://www.jaegertracing.io/docs/"><img src="https://img.shields.io/badge/Jaeger-60D0E4?style=flat-square&logo=jaeger&logoColor=white" alt="Jaeger"/></a>
+  <a href="https://zipkin.io/"><img src="https://img.shields.io/badge/Zipkin-0033CC?style=flat-square&logo=zipkin&logoColor=white" alt="Zipkin"/></a>
+  <a href="https://grafana.com/docs/tempo/latest/"><img src="https://img.shields.io/badge/Grafana%20Tempo-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Tempo"/></a>
+
+  <br/>
+
+  <a href="https://docs.aws.amazon.com/cloudwatch/"><img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" alt="CloudWatch"/></a>
+  <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/"><img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Monitor"/></a>
+  <a href="https://cloud.google.com/stackdriver/docs"><img src="https://img.shields.io/badge/Google%20Ops-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Ops"/></a>
+  <a href="https://support.pagerduty.com/docs"><img src="https://img.shields.io/badge/PagerDuty-006000?style=flat-square&logo=pagerduty&logoColor=white" alt="PagerDuty"/></a>
+  <a href="https://docs.opsgenie.com/"><img src="https://img.shields.io/badge/Opsgenie-0052CC?style=flat-square&logo=opsgenie&logoColor=white" alt="Opsgenie"/></a>
+  <a href="https://betterstack.com/docs"><img src="https://img.shields.io/badge/Better%20Stack-000000?style=flat-square&logo=betterstack&logoColor=white" alt="Better Stack"/></a>
 </p>
 
-**Goals:** Full-stack observability: metrics, logs, traces, alerts, dashboards, and incident playbooks.
+**Goals:** Full-stack observability, high-cardinality data, distributed tracing, real-time alerting, and reducing MTTR.
 
 </details>
 
+
 <details>
-<summary><strong>💳 Third-Party APIs & Payments</strong> — 30+ Integrations · Fintech · Comms (click to expand)</summary>
+<summary><strong>💳 Third-Party APIs & Payments</strong> —  Integrations · Fintech · Comms (click to expand)</summary>
 
 <br/>
 
@@ -274,7 +309,7 @@
 
 
 <details>
-<summary><strong>🔧 Tools, Build & Quality</strong> — 30+ Tools · Testing · CI/CD (click to expand)</summary>
+<summary><strong>🔧 Tools, Build & Quality</strong> — Tools · Testing · CI/CD (click to expand)</summary>
 
 <br/>
 
