@@ -245,6 +245,73 @@
 
 <p>
   <a href="https://pip.pypa.io/en/stable/"><img src="https://img.shields.io/badge/Pip-3776AB?style=flat-square&logo=pypi&logoColor=white" alt="Pip"/></a>
+<a href="https://prettier.io/docs/en/"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier"/></a>
+  <a href="https://typicode.github.io/husky/"><img src="https://img.shields.io/badge/Husky-000000?style=flat-square" alt="Husky"/></a>
+  <a href="https://pm2.keymetrics.io/docs/usage/quick-start/"><img src="https://img.shields.io/badge/PM2-2B7AE7?style=flat-square&logo=pm2&logoColor=white" alt="PM2"/></a>
+  <a href="https://k6.io/docs/"><img src="https://img.shields.io/badge/k6-7F1AFF?style=flat-square&logo=k6&logoColor=white" alt="k6"/></a>
+</p>
+
+**Also:** Webpack, Rollup, SWC, Go Modules, Newman, Postman, Insomnia, Lint-staged, commitlint.
+
+</details>
+
+---
+
+## 💬 My Philosophy
+
+> I combine practical engineering with measured risk — build small fast, test often, and operate with observability. My focus is on reliable systems that make teams productive and customers happy.
+
+---
+
+## 🧠 Journey So Far
+
+From intern → engineer → lead, I’ve built systems that handle production traffic, payments, realtime workloads, and integrations with third-party ecosystems. I thrive on solving hard infra problems and mentoring teams.
+
+---
+
+## 📞 Book a Consultation or Tech Session
+
+<details>
+<summary><strong>🎯 Schedule a 1:1 Tech Session with Sachin (click to expand)</strong></summary>
+
+<p>
+Want help designing microservices, setting up observability, or integrating payments? Book a focused 30–60 minute session:
+</p>
+
+<p align="center">
+  <a href="https://calendar.app.google/LubeiJVJV9tv5Hf38" target="_blank"><img src="https://img.shields.io/badge/Book%20a%20Consultation-%230077B5.svg?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book Consultation"/></a>
+</p>
+
+**What we can cover:** architecture review, API design, production readiness checklist, migration plan, infra cost optimization, or hiring & mentoring strategy.
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinjat2802&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinjat2802&theme=dark" alt="Streak Stats" />
+</p>
+
+---
+
+## 🎓 Education & Certifications
+- **MCA**, Computer Science — Rajasthan Technical University, Kota (2021–2023)
+- **BCA**, Computer Science — Tilak Maharashtra Vidyapeeth, Pune (2018–2021)
+- **HackerRank Java (Basic)** · **Node.js Dev (ongoing)** · **AWS Cloud Practitioner (in progress)**
+
+---
+
+## ✨ Fun Fact
+
+> When I’m not coding, I’m exploring cloud tools, mentoring devs, or debugging life's small mysteries over a strong cup of coffee ☕.
+
+---
   <a href="https://maven.apache.org/guides/index.html"><img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/></a>
   <a href="https://docs.gradle.org/current/userguide/userguide.html"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle"/></a>
   <a href="https://doc.rust-lang.org/cargo/"><img src="https://img.shields.io/badge/Cargo-000000?style=flat-square&logo=rust&logoColor=white" alt="Cargo"/></a>
@@ -253,4 +320,4 @@
   <a href="https://docs.pytest.org/en/stable/"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"/></a>
   <a href="https://mochajs.org/"><img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" alt="Mocha"/></a>
   <a href="https://eslint.org/docs/latest/"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint"/></a>
-  <a href="https://prettier.io/do
+  
