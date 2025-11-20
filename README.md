@@ -239,21 +239,62 @@
 </details>
 
 <details>
-<summary><strong>🔧 Tools, Build & Quality</strong> — Testing · CI/CD · Linting (click to expand)</summary>
+<summary><strong>🔧 Tools, Build & Quality</strong> — 30+ Tools · Testing · CI/CD (click to expand)</summary>
 
 <br/>
 
 <p>
+  <a href="https://docs.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/></a>
+  <a href="https://yarnpkg.com/"><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn"/></a>
+  <a href="https://pnpm.io/"><img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm"/></a>
   <a href="https://pip.pypa.io/en/stable/"><img src="https://img.shields.io/badge/Pip-3776AB?style=flat-square&logo=pypi&logoColor=white" alt="Pip"/></a>
-<a href="https://prettier.io/docs/en/"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier"/></a>
-  <a href="https://typicode.github.io/husky/"><img src="https://img.shields.io/badge/Husky-000000?style=flat-square" alt="Husky"/></a>
-  <a href="https://pm2.keymetrics.io/docs/usage/quick-start/"><img src="https://img.shields.io/badge/PM2-2B7AE7?style=flat-square&logo=pm2&logoColor=white" alt="PM2"/></a>
+  <a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white" alt="Poetry"/></a>
+  <a href="https://maven.apache.org/guides/index.html"><img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/></a>
+  <a href="https://docs.gradle.org/current/userguide/userguide.html"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle"/></a>
+  <a href="https://doc.rust-lang.org/cargo/"><img src="https://img.shields.io/badge/Cargo-000000?style=flat-square&logo=rust&logoColor=white" alt="Cargo"/></a>
+  
+  <br/>
+
+  <a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack"/></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/></a>
+  <a href="https://babeljs.io/"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black" alt="Babel"/></a>
+  <a href="https://rollupjs.org/"><img src="https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" alt="Rollup"/></a>
+
+  <br/>
+
+  <a href="https://jestjs.io/docs/getting-started"><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/></a>
+  <a href="https://vitest.dev/"><img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/></a>
+  <a href="https://docs.pytest.org/en/stable/"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"/></a>
+  <a href="https://mochajs.org/"><img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" alt="Mocha"/></a>
+  <a href="https://docs.cypress.io/"><img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/></a>
+  <a href="https://playwright.dev/"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/></a>
+  <a href="https://www.selenium.dev/documentation/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/></a>
   <a href="https://k6.io/docs/"><img src="https://img.shields.io/badge/k6-7F1AFF?style=flat-square&logo=k6&logoColor=white" alt="k6"/></a>
+  
+  <br/>
+
+  <a href="https://eslint.org/docs/latest/"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint"/></a>
+  <a href="https://prettier.io/docs/en/"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier"/></a>
+  <a href="https://docs.sonarqube.org/latest/"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/></a>
+  <a href="https://black.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/Black-000000?style=flat-square&logo=python&logoColor=white" alt="Black"/></a>
+  <a href="https://docs.astral.sh/ruff/"><img src="https://img.shields.io/badge/Ruff-000000?style=flat-square&logo=ruff&logoColor=white" alt="Ruff"/></a>
+  <a href="https://commitlint.js.org/"><img src="https://img.shields.io/badge/Commitlint-000000?style=flat-square&logo=commitlint&logoColor=white" alt="Commitlint"/></a>
+  <a href="https://typicode.github.io/husky/"><img src="https://img.shields.io/badge/Husky-000000?style=flat-square" alt="Husky"/></a>
+
+  <br/>
+
+  <a href="https://semantic-release.gitbook.io/"><img src="https://img.shields.io/badge/Semantic%20Release-494949?style=flat-square&logo=semantic-release&logoColor=white" alt="Semantic Release"/></a>
+  <a href="https://circleci.com/docs/"><img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" alt="CircleCI"/></a>
+  <a href="https://docs.travis-ci.com/"><img src="https://img.shields.io/badge/TravisCI-3EAAAF?style=flat-square&logo=travisci&logoColor=white" alt="TravisCI"/></a>
+  <a href="https://pm2.keymetrics.io/docs/usage/quick-start/"><img src="https://img.shields.io/badge/PM2-2B7AE7?style=flat-square&logo=pm2&logoColor=white" alt="PM2"/></a>
+  <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/></a>
+  <a href="https://docs.insomnia.rest/"><img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia"/></a>
 </p>
 
-**Also:** Webpack, Rollup, SWC, Go Modules, Newman, Postman, Insomnia, Lint-staged, commitlint.
+**Focus:** Comprehensive CI/CD, automated testing (Unit, Integration, E2E), code quality gates, and strict linting standards.
 
 </details>
+
 
 ---
 
