@@ -218,25 +218,60 @@
 </details>
 
 <details>
-<summary><strong>💳 Third-Party APIs & Payments</strong> — Stripe · PayPal · Razorpay (click to expand)</summary>
+<summary><strong>💳 Third-Party APIs & Payments</strong> — 30+ Integrations · Fintech · Comms (click to expand)</summary>
 
 <br/>
 
 <p>
   <a href="https://stripe.com/docs"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/></a>
-  <a href="https://razorpay.com/docs/"><img src="https://img.shields.io/badge/Razorpay-3D7BF9?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay"/></a>
-  <a href="https://www.chargebee.com/docs/2.0/api.html"><img src="https://img.shields.io/badge/Chargebee-FF6F00?style=flat-square&logo=chargebee&logoColor=white" alt="Chargebee"/></a>
   <a href="https://developer.paypal.com/docs/api/overview/"><img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"/></a>
-  <a href="https://developer.authorize.net/api/reference/index.html"><img src="https://img.shields.io/badge/Authorize.net-4A90E2?style=flat-square" alt="Authorize.net"/></a>
+  <a href="https://developer.squareup.com/docs"><img src="https://img.shields.io/badge/Square-000000?style=flat-square&logo=square&logoColor=white" alt="Square"/></a>
+  <a href="https://docs.adyen.com/"><img src="https://img.shields.io/badge/Adyen-0ABF53?style=flat-square&logo=adyen&logoColor=white" alt="Adyen"/></a>
   <a href="https://developer.paypal.com/braintree/docs"><img src="https://img.shields.io/badge/Braintree-009CDE?style=flat-square&logo=braintree&logoColor=white" alt="Braintree"/></a>
+  <a href="https://developer.authorize.net/api/reference/index.html"><img src="https://img.shields.io/badge/Authorize.net-4A90E2?style=flat-square" alt="Authorize.net"/></a>
+  <a href="https://www.2checkout.com/documentation/api/"><img src="https://img.shields.io/badge/2Checkout-E31A22?style=flat-square&logo=verifone&logoColor=white" alt="2Checkout"/></a>
+
+  <br/>
+
+  <a href="https://developer.paddle.com/"><img src="https://img.shields.io/badge/Paddle-FFD33D?style=flat-square&logo=paddle&logoColor=black" alt="Paddle"/></a>
+  <a href="https://docs.lemonsqueezy.com/"><img src="https://img.shields.io/badge/Lemon%20Squeezy-FFC700?style=flat-square&logo=lemonsqueezy&logoColor=black" alt="Lemon Squeezy"/></a>
+  <a href="https://www.chargebee.com/docs/2.0/api.html"><img src="https://img.shields.io/badge/Chargebee-FF6F00?style=flat-square&logo=chargebee&logoColor=white" alt="Chargebee"/></a>
+  <a href="https://docs.klarna.com/"><img src="https://img.shields.io/badge/Klarna-FFB3C7?style=flat-square&logo=klarna&logoColor=black" alt="Klarna"/></a>
+  <a href="https://plaid.com/docs/"><img src="https://img.shields.io/badge/Plaid-000000?style=flat-square&logo=plaid&logoColor=white" alt="Plaid"/></a>
+  <a href="https://docs.wise.com/api"><img src="https://img.shields.io/badge/Wise-9FE870?style=flat-square&logo=wise&logoColor=black" alt="Wise"/></a>
+
+  <br/>
+
+  <a href="https://razorpay.com/docs/"><img src="https://img.shields.io/badge/Razorpay-3D7BF9?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay"/></a>
+  <a href="https://developer.phonepe.com/v1/docs"><img src="https://img.shields.io/badge/PhonePe-5F259F?style=flat-square&logo=phonepe&logoColor=white" alt="PhonePe"/></a>
+  <a href="https://developer.juspay.in/docs"><img src="https://img.shields.io/badge/Juspay-183055?style=flat-square&logo=juspay&logoColor=white" alt="Juspay"/></a>
   <a href="https://developer.paytm.com/docs/"><img src="https://img.shields.io/badge/Paytm-00A6FF?style=flat-square&logo=paytm&logoColor=white" alt="Paytm"/></a>
-  <a href="https://developer.nylas.com/"><img src="https://img.shields.io/badge/Nylas-5A2D8A?style=flat-square" alt="Nylas"/></a>
-  <a href="https://docs.mulesoft.com/"><img src="https://img.shields.io/badge/MuleSoft-28A8E0?style=flat-square&logo=mulesoft&logoColor=white" alt="Mulesoft"/></a>
+  
+  <br/>
+
+  <a href="https://www.twilio.com/docs"><img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio"/></a>
+  <a href="https://docs.sendgrid.com/"><img src="https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=sendgrid&logoColor=white" alt="SendGrid"/></a>
+  <a href="https://documentation.mailgun.com/"><img src="https://img.shields.io/badge/Mailgun-F14338?style=flat-square&logo=mailgun&logoColor=white" alt="Mailgun"/></a>
+  <a href="https://docs.aws.amazon.com/ses/"><img src="https://img.shields.io/badge/Amazon%20SES-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon SES"/></a>
+  <a href="https://developer.vonage.com/"><img src="https://img.shields.io/badge/Vonage-000000?style=flat-square&logo=vonage&logoColor=white" alt="Vonage"/></a>
+  <a href="https://developers.messagebird.com/"><img src="https://img.shields.io/badge/MessageBird-2481D7?style=flat-square&logo=messagebird&logoColor=white" alt="MessageBird"/></a>
+
+  <br/>
+
+  <a href="https://www.algolia.com/doc/"><img src="https://img.shields.io/badge/Algolia-003DFF?style=flat-square&logo=algolia&logoColor=white" alt="Algolia"/></a>
+  <a href="https://cloudinary.com/documentation"><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/></a>
+  <a href="https://developers.google.com/maps"><img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps"/></a>
+  <a href="https://docs.mapbox.com/"><img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox"/></a>
+  <a href="https://shopify.dev/docs/api"><img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" alt="Shopify"/></a>
+  <a href="https://www.contentful.com/developers/docs/"><img src="https://img.shields.io/badge/Contentful-247F9C?style=flat-square&logo=contentful&logoColor=white" alt="Contentful"/></a>
+  <a href="https://developer.nylas.com/"><img src="https://img.shields.io/badge/Nylas-5A2D8A?style=flat-square&logo=nylas&logoColor=white" alt="Nylas"/></a>
+  <a href="https://docs.mulesoft.com/"><img src="https://img.shields.io/badge/MuleSoft-00A1DF?style=flat-square&logo=mulesoft&logoColor=white" alt="MuleSoft"/></a>
 </p>
 
-**Also worked with:** Twilio, SendGrid, Plaid, Wise, Zapier, Make, webhook orchestration, PCI considerations.
+**Also worked with:** Postmark, Agora, Stream, RevenueCat, Zapier, Make, webhook orchestration, idempotency & PCI compliance.
 
 </details>
+
 
 <details>
 <summary><strong>🔧 Tools, Build & Quality</strong> — 30+ Tools · Testing · CI/CD (click to expand)</summary>
