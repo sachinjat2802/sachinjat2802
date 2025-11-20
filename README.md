@@ -177,23 +177,56 @@
 </details>
 
 <details>
-<summary><strong>📡 Event-Driven & Message Brokers</strong> — Kafka · RabbitMQ · Streams (click to expand)</summary>
+<summary><strong>📡 Event-Driven & Message Brokers</strong>  Streaming & Queuing Tools (click to expand)</summary>
 
 <br/>
 
 <p>
   <a href="https://kafka.apache.org/documentation/"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/></a>
-  <a href="https://docs.nats.io/"><img src="https://img.shields.io/badge/NATS-000000?style=flat-square&logo=nats&logoColor=white" alt="NATS"/></a>
+  <a href="https://docs.confluent.io/home/overview.html"><img src="https://img.shields.io/badge/Confluent-E21C58?style=flat-square&logo=confluent&logoColor=white" alt="Confluent"/></a>
+  <a href="https://pulsar.apache.org/docs/en/next/"><img src="https://img.shields.io/badge/Apache%20Pulsar-188D36?style=flat-square&logo=apachepulsar&logoColor=white" alt="Pulsar"/></a>
+  <a href="https://docs.redpanda.com/"><img src="https://img.shields.io/badge/Redpanda-F53636?style=flat-square&logo=redpanda&logoColor=white" alt="Redpanda"/></a>
+  <a href="https://flink.apache.org/documentation/"><img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" alt="Flink"/></a>
+  <a href="https://spark.apache.org/docs/latest/streaming-programming-guide.html"><img src="https://img.shields.io/badge/Spark%20Streaming-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark Streaming"/></a>
+
+  <br/>
+
   <a href="https://www.rabbitmq.com/documentation.html"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/></a>
+  <a href="https://docs.nats.io/"><img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=nats&logoColor=white" alt="NATS"/></a>
   <a href="https://redis.io/docs/data-types/streams/"><img src="https://img.shields.io/badge/Redis%20Streams-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis Streams"/></a>
+  <a href="https://activemq.apache.org/components/classic/documentation"><img src="https://img.shields.io/badge/ActiveMQ-A63122?style=flat-square&logo=apache&logoColor=white" alt="ActiveMQ"/></a>
+  <a href="https://zeromq.org/get-started/"><img src="https://img.shields.io/badge/ZeroMQ-DF0000?style=flat-square&logo=zeromq&logoColor=white" alt="ZeroMQ"/></a>
+  <a href="https://mosquitto.org/documentation/"><img src="https://img.shields.io/badge/Mosquitto%20(MQTT)-3C5280?style=flat-square&logo=eclipse-mosquitto&logoColor=white" alt="Mosquitto"/></a>
+
+  <br/>
+
+  <a href="https://docs.aws.amazon.com/sqs/"><img src="https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SQS"/></a>
+  <a href="https://docs.aws.amazon.com/sns/"><img src="https://img.shields.io/badge/AWS%20SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SNS"/></a>
+  <a href="https://docs.aws.amazon.com/kinesis/"><img src="https://img.shields.io/badge/AWS%20Kinesis-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Kinesis"/></a>
+  <a href="https://docs.aws.amazon.com/eventbridge/"><img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" alt="EventBridge"/></a>
+  <a href="https://cloud.google.com/pubsub/docs"><img src="https://img.shields.io/badge/GCP%20Pub/Sub-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP Pub/Sub"/></a>
+  <a href="https://learn.microsoft.com/en-us/azure/service-bus-messaging/"><img src="https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Service Bus"/></a>
+  <a href="https://learn.microsoft.com/en-us/azure/event-hubs/"><img src="https://img.shields.io/badge/Event%20Hubs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Event Hubs"/></a>
+
+  <br/>
+
   <a href="https://docs.bullmq.io/"><img src="https://img.shields.io/badge/BullMQ-FF6E00?style=flat-square&logo=redis&logoColor=white" alt="BullMQ"/></a>
+  <a href="https://docs.celeryq.dev/en/stable/"><img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/></a>
+  <a href="https://github.com/mperham/sidekiq/wiki"><img src="https://img.shields.io/badge/Sidekiq-D14B4B?style=flat-square&logo=rubygems&logoColor=white" alt="Sidekiq"/></a>
+  <a href="https://developers.eventstore.com/"><img src="https://img.shields.io/badge/EventStoreDB-569536?style=flat-square&logo=eventstore&logoColor=white" alt="EventStoreDB"/></a>
+  <a href="https://docs.axoniq.io/reference-guide/"><img src="https://img.shields.io/badge/Axon%20Server-F78C40?style=flat-square" alt="Axon Server"/></a>
+
+  <br/>
+
   <a href="https://grpc.io/docs/"><img src="https://img.shields.io/badge/gRPC-0F9D58?style=flat-square&logo=grpc&logoColor=white" alt="gRPC"/></a>
-  <a href="https://pulsar.apache.org/docs/en/next/getting-started-home/"><img src="https://img.shields.io/badge/Apache%20Pulsar-0887A8?style=flat-square&logo=apachepulsar&logoColor=white" alt="Pulsar"/></a>
+  <a href="https://socket.io/docs/v4/"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io"/></a>
+  <a href="https://www.apollographql.com/docs/react/data/subscriptions/"><img src="https://img.shields.io/badge/GraphQL%20Subs-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL Subs"/></a>
 </p>
 
-**Patterns:** Exactly-once/at-least-once semantics, partitioning, dead-letter queues, idempotency, and sagas.
+**Patterns:** Event Sourcing, CQRS, Dead-letter queues, Idempotency, Fan-out, Publish-Subscribe, and real-time data streaming.
 
 </details>
+
 
 <details>
 <summary><strong>🧰 Monitoring & Observability</strong> —  Tools · APM · Tracing (click to expand)</summary>
